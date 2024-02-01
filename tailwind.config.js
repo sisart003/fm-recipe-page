@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'young': ['Young Serif'],
+      'outfit': ['outfit'],
+    }
   },
   plugins: [],
 }
